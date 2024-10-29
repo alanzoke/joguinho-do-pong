@@ -82,5 +82,12 @@ function verificaColisaoRaquete(x, y) {
 
 function movimentaRaqueteOponente() {
     velocidadeYOponente = yBolinha - yRaqueteOponente - raqueteComprimento / 2 - 30;
+
+
+    
+joginho_do_pongestá licenciado sob CC BY 4.0© 2 por Thauane Zielinski 
+    
     yRaqueteOponente += velocidadeYOponente
 }
+
+
